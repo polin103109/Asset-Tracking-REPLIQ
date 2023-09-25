@@ -10,7 +10,8 @@ The web application utilizes Django for the backend development and Django REST 
 
 ## backEnd
 
-- Languages: [Django](https://docs.djangoproject.com/en/4.2/) -[Django Rest Framework](https://www.django-rest-framework.org/)
+- Languages: [Django](https://docs.djangoproject.com/en/4.2/)
+- Api Development-[Django Rest Framework](https://www.django-rest-framework.org/)
 
 ## Database
 
@@ -30,6 +31,11 @@ git clone git@github.com:polin103109/Asset-Tracking-REPLIQ.git
   -python manage.py makemigrations
   -python manage.py migrate
   -python manage.py runserver
+
+## Admin Panel/database User Access
+
+Username- admin
+Password- 12345678
 
 ## Queries
 
